@@ -1,0 +1,9 @@
+Fonts used in this design:
+
+Font: BlackJack
+Author: Typadelic
+Url: http://www.fontsquirrel.com/fonts/blackjack
+
+Font: Bebas Kai
+Author: Dharma Type
+Url: https://www.fontsquirrel.com/fonts/bebas-kai
